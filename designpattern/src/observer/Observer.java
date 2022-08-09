@@ -12,6 +12,6 @@ class ObserverImplements implements Observer {
 
     @Override
     public void update(Subject subject) {
-        this.data1 = subject.getData1();
+
     }
 }
