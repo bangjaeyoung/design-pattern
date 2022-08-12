@@ -58,7 +58,6 @@ public class StrategyTest {
 
     public static void main(String[] args) {
         SuperMario superMario = new SuperMario(new DoubleJump(), new BeBigger());
-
         superMario.jump();
         superMario.change();
     }
