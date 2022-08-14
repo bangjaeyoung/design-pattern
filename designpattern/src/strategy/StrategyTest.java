@@ -52,7 +52,6 @@ class SuperMario {
     public void change() {
         changeStrategy.change();
     }
-
 }
 public class StrategyTest {
 
